@@ -9,7 +9,7 @@
   "devDependencies": {
     "cypress": "^13.13.0",
     "solid-start-netlify": "^0.3.11",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.4",
     "vite": "^5.3.3"
   },
   "dependencies": {
